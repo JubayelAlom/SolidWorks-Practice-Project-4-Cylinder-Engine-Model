@@ -1,0 +1,2 @@
+# SolidWorks-Practice-Project-4-Cylinder-Engine-Model
+I recently completed a practice project where I modeled a 4-cylinder engine assembly in SolidWorks as part of improving my CAD and mechanical design skills. It helped me strengthen my understanding of: 🔹 Part modeling  🔹 Assembly design  🔹 Mates and motion relationships  🔹 Parametric design approach  🔹 Mechanical component detailing
