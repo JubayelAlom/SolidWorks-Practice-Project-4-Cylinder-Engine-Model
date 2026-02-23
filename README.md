@@ -34,8 +34,6 @@ The assembly includes:
 
 Each component was modeled separately and later assembled using appropriate mates to simulate realistic mechanical motion.
 
----
-
 ## ⚙️ Technical Details
 
 - **Software Used:** SolidWorks  
