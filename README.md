@@ -79,6 +79,7 @@ This project was inspired by educational resources from YouTube and built as a s
 Mechanical Engineering Graduate  
 MSc in Mechanical Engineering for Sustainability  
 University of Bologna  
+📧 Email: jubayelalom217@gmail.com 
 
 ---
 
