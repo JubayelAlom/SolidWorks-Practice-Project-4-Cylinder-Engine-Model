@@ -48,4 +48,40 @@ The crankshaft rotation drives the reciprocating motion of the pistons through c
 
 ---
 
+---
 
+## 🚀 Key Takeaways
+
+- Applied theoretical mechanical engineering concepts into practical CAD modeling  
+- Improved understanding of engine kinematics  
+- Strengthened assembly workflow and mate control  
+- Enhanced parametric design thinking  
+
+---
+
+## 🔄 Future Improvements
+
+- Add motion simulation study  
+- Perform basic stress analysis (FEA)  
+- Improve detailing and tolerancing  
+- Create exploded view animation  
+- Add motion study video  
+
+---
+
+## 📚 Inspiration
+
+This project was inspired by educational resources from YouTube and built as a self-practice exercise to improve CAD proficiency.
+
+---
+
+## 👨‍🔧 Author
+
+**Jubayel Alom**  
+Mechanical Engineering Graduate  
+MSc in Mechanical Engineering for Sustainability  
+University of Bologna  
+
+---
+
+⭐ If you found this project interesting, feel free to connect or provide feedback!
