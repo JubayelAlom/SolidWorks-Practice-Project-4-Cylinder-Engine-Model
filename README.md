@@ -6,6 +6,8 @@ This project is a 4-cylinder internal combustion engine assembly modeled in Soli
 
 The objective of this project was to strengthen my understanding of mechanical components, assembly relationships, and parametric design principles by building a functional inline 4-cylinder engine configuration from individual parts.
 
+![Image Alt](https://github.com/JubayelAlom/SolidWorks-Practice-Project-4-Cylinder-Engine-Model/blob/420e2c4379b78f10d08fd26895618310840d6c38/picture.png)
+
 ---
 
 ## 🎯 Learning Objectives
